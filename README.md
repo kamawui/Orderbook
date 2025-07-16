@@ -23,20 +23,24 @@ When orders match, the trade is completed with the price of the earlier order an
    
    ```bash
    git clone https://github.com/kamawui/Orderbook.git
+   ```
    
 2. Navigate to the project folder:
    
    ```bash
    cd Orderbook
+   ```
    
 3. Compile the program:
    
    ```bash
    make
+   ```
    
 4. Run the program:
    ```bash
    ./orderbook
+   ```
 
 ## Usage
 Each order is entered in format: 
